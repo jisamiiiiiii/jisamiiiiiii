@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jisami
+# Hi Everyone 👋, I'm Jisami
 
 - 🔭 I'm Working on learning Git
 - 🌱 Exploring web development
